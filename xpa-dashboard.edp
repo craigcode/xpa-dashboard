@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="xpa-dashboard"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{CF1BFB39-B0B9-49B5-A255-1EE0A13AB3D8}"/>
+    <Version min="13020"/>
+    <SourceVersion val="13020.00"/>
+  </_Project>
+
+</Application>
